@@ -19,12 +19,10 @@ int main(void)
 			putchar(a);
 			putchar(p);
 	if (a == '8' && p == '9')
-	{
 	continue;
 	putchar(',');
 	putchar(' ');
 			}
-	}
 	}
 	putchar('\n');
 	return (0);
