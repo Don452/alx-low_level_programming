@@ -14,7 +14,7 @@ int main(void)
 	c = 0;
 	d = 'a';
 	while
-		(c <= 16) {
+		(c < 10) {
 			putchar(c + '0');
 			c++;
 		}
